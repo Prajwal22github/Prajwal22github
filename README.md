@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm PRAJWAL S, currently learning Data Science and Machine learning.
 
 <!--
 **Prajwal22github/Prajwal22github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
